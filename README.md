@@ -2,10 +2,10 @@
 
 ## Pin connection
 
-- GND --- GND
 - 5V  --- VCC
 - SCL --- A5
 - SDA --- A4
+- GND --- GND
 
 ## lib:https://github.com/adafruit/Adafruit_INA219
 
